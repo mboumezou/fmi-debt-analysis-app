@@ -537,7 +537,7 @@ elif st.session_state.page == "Breakdown":
 
             fig4 = debt_breakdown_details_percent(country, Holdings)
             if fig4:
-                st.plotly_chart(fig4, key = "fig_4_breakdown)
+                st.plotly_chart(fig4, key = "fig_4_breakdown")
 
 
 # --------------------------- COMPARISON PAGE ---------------------------
@@ -588,4 +588,5 @@ st.markdown("""
     Software developed by <strong><a href="https://www.linkedin.com/in/mohamed-boumezou-a8a0052ab/" target="_blank">Mohamed Boumezou</a></strong>.
 </p>
 """, unsafe_allow_html=True)
+
 
