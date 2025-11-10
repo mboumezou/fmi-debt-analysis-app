@@ -1,10 +1,10 @@
-# 📊 FMI Debt Visualizer
+# FMI Debt Visualizer
 
 An interactive Streamlit application to visualize and analyze sovereign debt structures across advanced economies using official IMF data.
 
 Made by Mohamed Boumezou 
 
-## 🌍 Overview
+## Overview
 
 This tool allows users to:
 - Explore the composition of sovereign debt by investor type (domestic vs foreign)
@@ -15,11 +15,11 @@ All data used comes from the **IMF Investor Base Sovereign Debt Database** (1989
 
 ---
 
-## 🧩 Features
+## Features
 
-- 📈 Country-specific debt breakdown (stacked area charts)
-- 📊 Cross-country comparison for any quarter
-- 🔍 Debt-to-GDP vs Foreign investor share (IRI index)
+- Country-specific debt breakdown (stacked area charts)
+- Cross-country comparison for any quarter
+- Debt-to-GDP vs Foreign investor share (IRI index)
 - Clean UI with smooth navigation between sections
 
 ---
